@@ -1,0 +1,168 @@
+Running on the test file: testword_0.6K_1.2K.txt
+Naive-differential method took 7007.992 seconds
+Database file was queried 51 times. Diff file was queried 180 times.
+Bits per element is set to 8
+Deterministic-hash-function method took 6386.212 seconds
+Database file was queried 51 times. Diff file was queried 131 times. Filter was queried 0.002 seconds.(3.131746999494302E-5%)
+The fnv64 filter was built in 20.547 seconds.
+The queries were completed in 6386.208 seconds.(99.99993871073254%)
+The queries on database took 5216.148 seconds (81.67827923959103%). The queries on DiffFile took 1170.059 seconds (18.321643812406517%).
+Random-hash-function method took 6569.364 seconds
+Database file was queried 51 times. Diff file was queried 130 times. Filter was queried 0.002 seconds.(3.04443484965167E-5%)
+The random filter was built in 7.249 seconds.
+The queries were completed in 6569.359 seconds.(99.99992739736425%)
+The queries on database took 5377.181 seconds (81.85238614642408%). The queries on DiffFile took 1192.178 seconds (18.147541250940147%).
+
+Bits per element is set to 10
+Deterministic-hash-function method took 6707.396 seconds
+Database file was queried 51 times. Diff file was queried 130 times. Filter was queried 0.005 seconds.(7.454457740249566E-5%)
+The fnv64 filter was built in 21.506 seconds.
+The queries were completed in 6707.389 seconds.(99.9998956958296%)
+The queries on database took 5526.646 seconds (82.3962981046386%). The queries on DiffFile took 1180.743 seconds (17.603597591190983%).
+Random-hash-function method took 6536.792 seconds
+Database file was queried 51 times. Diff file was queried 129 times. Filter was queried 0.001 seconds.(1.52980238807531E-5%)
+The random filter was built in 8.194 seconds.
+The queries were completed in 6536.788 seconds.(99.99993892742029%)
+The queries on database took 5379.671 seconds (82.29833542859491%). The queries on DiffFile took 1157.117 seconds (17.70160349882538%).
+
+
+Running on the test file: testword_1.2K_0.6K.txt
+Naive-differential method took 11498.314 seconds
+Database file was queried 105 times. Diff file was queried 180 times.
+Bits per element is set to 8
+Deterministic-hash-function method took 8956.918 seconds
+Database file was queried 105 times. Diff file was queried 75 times. Filter was queried 0.007 seconds.(7.815188242677295E-5%)
+The fnv64 filter was built in 20.565 seconds.
+The queries were completed in 8956.909 seconds.(99.99989986790064%)
+The queries on database took 8360.02 seconds (93.33590001792435%). The queries on DiffFile took 596.889 seconds (6.663999849976297%).
+Random-hash-function method took 8785.221 seconds
+Database file was queried 105 times. Diff file was queried 78 times. Filter was queried 0.0 seconds.(0.0%)
+The random filter was built in 6.952 seconds.
+The queries were completed in 8785.218 seconds.(99.99996923099498%)
+The queries on database took 8144.108 seconds (92.70237225916307%). The queries on DiffFile took 641.109 seconds (7.297585589078605%).
+
+Bits per element is set to 10
+Deterministic-hash-function method took 8777.689 seconds
+Database file was queried 105 times. Diff file was queried 78 times. Filter was queried 0.009 seconds.(1.0253267728440601E-4%)
+The fnv64 filter was built in 20.479 seconds.
+The queries were completed in 8777.678 seconds.(99.99986952004784%)
+The queries on database took 8124.589 seconds (92.55954022282612%). The queries on DiffFile took 653.088 seconds (7.440317904702018%).
+Random-hash-function method took 8904.756 seconds
+Database file was queried 105 times. Diff file was queried 76 times. Filter was queried 0.0 seconds.(0.0%)
+The random filter was built in 7.786 seconds.
+The queries were completed in 8904.743 seconds.(99.99985558980839%)
+The queries on database took 8294.61 seconds (93.14808997562092%). The queries on DiffFile took 610.133 seconds (6.851765614187469%).
+
+
+Running on the test file: testword_0.0K_0.6K.txt
+Naive-differential method took 551.017 seconds
+Database file was queried 0 times. Diff file was queried 60 times.
+Bits per element is set to 8
+Deterministic-hash-function method took 556.455 seconds
+Database file was queried 0 times. Diff file was queried 60 times. Filter was queried 0.002 seconds.(3.5941809105426495E-4%)
+The fnv64 filter was built in 19.811 seconds.
+The queries were completed in 556.452 seconds.(99.99945780166391%)
+The queries on database took 0.0 seconds (0.0%). The queries on DiffFile took 556.452 seconds (99.99945780166391%).
+Random-hash-function method took 548.442 seconds
+Database file was queried 0 times. Diff file was queried 60 times. Filter was queried 0.0 seconds.(0.0%)
+The random filter was built in 7.012 seconds.
+The queries were completed in 548.44 seconds.(99.99963230359793%)
+The queries on database took 0.0 seconds (0.0%). The queries on DiffFile took 548.44 seconds (99.99963230359793%).
+
+Bits per element is set to 10
+Deterministic-hash-function method took 554.315 seconds
+Database file was queried 0 times. Diff file was queried 60 times. Filter was queried 0.003 seconds.(5.412085162384027E-4%)
+The fnv64 filter was built in 21.582 seconds.
+The queries were completed in 554.31 seconds.(99.99909754536964%)
+The queries on database took 0.0 seconds (0.0%). The queries on DiffFile took 554.31 seconds (99.99909754536964%).
+Random-hash-function method took 552.157 seconds
+Database file was queried 0 times. Diff file was queried 60 times. Filter was queried 0.001 seconds.(1.8110791529137106E-4%)
+The random filter was built in 7.768 seconds.
+The queries were completed in 552.154 seconds.(99.9994598597917%)
+The queries on database took 0.0 seconds (0.0%). The queries on DiffFile took 552.153 seconds (99.9992787518764%).
+
+
+Running on the test file: testword_0.6K_0.0K.txt
+Naive-differential method took 5475.404 seconds
+Database file was queried 56 times. Diff file was queried 60 times.
+Bits per element is set to 8
+Deterministic-hash-function method took 4553.756 seconds
+Database file was queried 56 times. Diff file was queried 5 times. Filter was queried 0.002 seconds.(4.391978976831882E-5%)
+The fnv64 filter was built in 19.887 seconds.
+The queries were completed in 4553.753 seconds.(99.99993720842556%)
+The queries on database took 4492.76 seconds (98.66053733975603%). The queries on DiffFile took 60.993 seconds (1.339399868669535%).
+Random-hash-function method took 4547.039 seconds
+Database file was queried 56 times. Diff file was queried 4 times. Filter was queried 0.0 seconds.(0.0%)
+The random filter was built in 6.974 seconds.
+The queries were completed in 4547.038 seconds.(99.99997663314552%)
+The queries on database took 4502.936 seconds (99.03007073627926%). The queries on DiffFile took 44.102 seconds (0.9699058968662642%).
+
+Bits per element is set to 10
+Deterministic-hash-function method took 4529.847 seconds
+Database file was queried 56 times. Diff file was queried 5 times. Filter was queried 0.002 seconds.(4.415159995114867E-5%)
+The fnv64 filter was built in 20.438 seconds.
+The queries were completed in 4529.833 seconds.(99.99968723075581%)
+The queries on database took 4468.583 seconds (98.64754448225187%). The queries on DiffFile took 61.25 seconds (1.3521427485039281%).
+Random-hash-function method took 4553.784 seconds
+Database file was queried 56 times. Diff file was queried 4 times. Filter was queried 0.001 seconds.(2.1959758313988088E-5%)
+The random filter was built in 7.563 seconds.
+The queries were completed in 4553.782 seconds.(99.9999521345893%)
+The queries on database took 4512.191 seconds (99.08662382655223%). The queries on DiffFile took 41.591 seconds (0.9133283080370785%).
+
+
+Running on the test file: testword_6.0K_0.6K.txt
+Naive-differential method took 54052.742 seconds
+Database file was queried 532 times. Diff file was queried 660 times.
+Bits per element is set to 8
+Deterministic-hash-function method took 45770.336 seconds
+Database file was queried 532 times. Diff file was queried 146 times. Filter was queried 0.024 seconds.(5.2435708649314524E-5%)
+The fnv64 filter was built in 20.107 seconds.
+The queries were completed in 45770.237 seconds.(99.99978383925315%)
+The queries on database took 44392.398 seconds (96.9894519905172%). The queries on DiffFile took 1377.837 seconds (3.0103274790935655%).
+Random-hash-function method took 46479.8 seconds
+Database file was queried 532 times. Diff file was queried 146 times. Filter was queried 0.004 seconds.(8.605888865198416E-6%)
+The random filter was built in 6.773 seconds.
+The queries were completed in 46479.754 seconds.(99.99989935144038%)
+The queries on database took 45064.95 seconds (96.95598785393082%). The queries on DiffFile took 1414.801 seconds (3.043905043092896%).
+
+Bits per element is set to 10
+Deterministic-hash-function method took 45633.04 seconds
+Database file was queried 532 times. Diff file was queried 139 times. Filter was queried 0.021 seconds.(4.6019288724640815E-5%)
+The fnv64 filter was built in 21.387 seconds.
+The queries were completed in 45633.006 seconds.(99.99992754701269%)
+The queries on database took 44362.277 seconds (97.21525874978536%). The queries on DiffFile took 1270.727 seconds (2.7846644144379358%).
+Random-hash-function method took 44700.242 seconds
+Database file was queried 532 times. Diff file was queried 135 times. Filter was queried 0.003 seconds.(6.711373033318646E-6%)
+The random filter was built in 7.673 seconds.
+The queries were completed in 44700.217 seconds.(99.99994365243057%)
+The queries on database took 43529.071 seconds (97.37994442493758%). The queries on DiffFile took 1171.144 seconds (2.6199947532443106%).
+
+
+Running on the test file: testword_0.6K_0.6K.txt
+Naive-differential method took 6103.251 seconds
+Database file was queried 56 times. Diff file was queried 120 times.
+Bits per element is set to 8
+Deterministic-hash-function method took 5204.715 seconds
+Database file was queried 56 times. Diff file was queried 64 times. Filter was queried 0.009 seconds.(1.7292013626466987E-4%)
+The fnv64 filter was built in 19.7 seconds.
+The queries were completed in 5204.704 seconds.(99.99979165525248%)
+The queries on database took 4711.084 seconds (90.51569858158956%). The queries on DiffFile took 493.619 seconds (9.484073860314455%).
+Random-hash-function method took 5186.276 seconds
+Database file was queried 56 times. Diff file was queried 65 times. Filter was queried 0.0 seconds.(0.0%)
+The random filter was built in 6.75 seconds.
+The queries were completed in 5186.275 seconds.(99.9999830532299%)
+The queries on database took 4683.159 seconds (90.29907219258159%). The queries on DiffFile took 503.116 seconds (9.70091086064831%).
+
+Bits per element is set to 10
+Deterministic-hash-function method took 5149.41 seconds
+Database file was queried 56 times. Diff file was queried 64 times. Filter was queried 0.006 seconds.(1.1651819952072789E-4%)
+The fnv64 filter was built in 20.303 seconds.
+The queries were completed in 5149.403 seconds.(99.99986102777245%)
+The queries on database took 4661.716 seconds (90.52912583282826%). The queries on DiffFile took 487.687 seconds (9.470735194944204%).
+Random-hash-function method took 5244.658 seconds
+Database file was queried 56 times. Diff file was queried 64 times. Filter was queried 0.001 seconds.(1.9067019456180305E-5%)
+The random filter was built in 7.721 seconds.
+The queries were completed in 5244.655 seconds.(99.9999389259533%)
+The queries on database took 4750.254 seconds (90.57318543979831%). The queries on DiffFile took 494.401 seconds (9.426753486154999%).
+
+
