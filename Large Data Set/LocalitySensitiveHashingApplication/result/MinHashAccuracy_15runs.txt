@@ -1,0 +1,19 @@
+For 400, the average number of pairs for which approximate and exact similarities differ by more than 0.04:7077.4
+
+For 400, the average number of pairs for which approximate and exact similarities differ by more than 0.07:15.0
+
+For 400, the average number of pairs for which approximate and exact similarities differ by more than 0.09:0.3333333333333333
+
+For 600, the average number of pairs for which approximate and exact similarities differ by more than 0.04:1225.0666666666666
+
+For 600, the average number of pairs for which approximate and exact similarities differ by more than 0.07:0.2
+
+For 600, the average number of pairs for which approximate and exact similarities differ by more than 0.09:0.0
+
+For 800, the average number of pairs for which approximate and exact similarities differ by more than 0.04:738.8
+
+For 800, the average number of pairs for which approximate and exact similarities differ by more than 0.07:0.0
+
+For 800, the average number of pairs for which approximate and exact similarities differ by more than 0.09:0.0
+
+Comparing the exact Jaccard Similarity for every pair of files in the folder took 99161.44 seconds.
